@@ -1,0 +1,5 @@
+{
+  "name": "BillPrint Studio",
+  "description": "A visual tool for configuring and simulating structural data filling into bill/check templates.",
+  "requestFramePermissions": []
+}
